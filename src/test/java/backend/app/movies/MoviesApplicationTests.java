@@ -1,4 +1,4 @@
-package backendmovies.app.movies;
+package backend.app.movies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
